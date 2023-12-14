@@ -43,7 +43,7 @@ function App() {
               <Course
                 image={Kompleweb}
                 title="FrontEnd"
-                description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore culpa eius, aliquam facere suscipit error praesentium sit incidunt blanditiis cupiditate, ratione omnis harum deserunt sequi dignissimos exercitationem corporis, beatae distinctio?"
+                description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore culpa eius, aliquam facere suscipit error praesentium sit incidunt blanditiis cupiditate, ratione omnis harum deserunt sequi dignissimos exercitationem corporis, beatae distinctio"
               />
             </div>
           </div>
